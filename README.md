@@ -1,3 +1,4 @@
+![logo](https://github.com/RashidBhatti313/RashidBhatti313/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm M. Rashid Bhatti</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
